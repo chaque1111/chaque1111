@@ -64,7 +64,8 @@ Busco un puesto desafiante donde pueda continuar aprendiendo.
  almacenaba la información en una base de datos para después usarla desde la misma
 • incluía: búsquedas, ordenamientos, filtrados y creación de razas
 
-☎️ Contacto:
+☎️ Contacto:              
+
     • Linkedin:  https://www.linkedin.com/in/alexander-ca%C3%B1ete-831480238/                                                                                               
     • Teléfono: +54 9 3625 23-5556                                                                                                                                           
     • Gmail: alexandercanete035@gmail.com
