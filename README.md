@@ -46,15 +46,27 @@ Busco un puesto desafiante donde pueda continuar aprendiendo.
 
 💻 Proyectos:
 
- • Proyecto 
+• Proyecto 
 • E-COMMERCE | GAED.JM-URL: https://gaed-jm-dusky.vercel.app/LandingPage 
 • descripción : Proyecto de Henry Diseñar y desarrollar un E-commerce de de ropa
  que incluye: búsquedas, ordenamientos, filtrados, creación de productos, reviews de productos,
  sección de contacto, login gestión de usuarios, dashboard de administradores y pasarela de pagos
+ 
+• Proyecto 
+• Video-Games-App-URL : https://pi-videogames-front.vercel.app/ 
+• descripción : Diseñar y desarrollar una App de Videojuegos que traía información de una API y 
+ almacenaba la información en una base de datos para después usarla desde la misma
+• incluía: búsquedas, ordenamientos, filtrados y creación de video juegos
+
+• Proyecto 
+• Dogs-App-URL : https://dogs-app-kappa.vercel.app/
+• descripción : Diseñar y desarrollar una App de Razas de perros que traía información de una API y 
+ almacenaba la información en una base de datos para después usarla desde la misma
+• incluía: búsquedas, ordenamientos, filtrados y creación de razas
 
 ☎️ Contacto:
-    • Linkedin:  https://www.linkedin.com/in/alexander-ca%C3%B1ete-831480238/
-    • Teléfono: +54 9 3625 23-5556
+    • Linkedin:  https://www.linkedin.com/in/alexander-ca%C3%B1ete-831480238/                                                                                               
+    • Teléfono: +54 9 3625 23-5556                                                                                                                                           
     • Gmail: alexandercanete035@gmail.com
 
 <!--
