@@ -45,25 +45,18 @@ Busco un puesto desafiante donde pueda continuar aprendiendo.
 [![Typing SVG](https://camo.githubusercontent.com/a0d4ee5c8ade6c8d92532978856e34de4be418cad95073fef0a00536e91802fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f6c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)](https://git.io/typing-svg)
 
 💻 Proyectos:
-   Proyecto 
+
+ • Proyecto 
 • E-COMMERCE | GAED.JM-URL: https://gaed-jm-dusky.vercel.app/LandingPage 
 • descripción : Proyecto de Henry Diseñar y desarrollar un E-commerce de de ropa
  que incluye: búsquedas, ordenamientos, filtrados, creación de productos, reviews de productos,
  sección de contacto, login gestión de usuarios, dashboard de administradores y pasarela de pagos
  
 • Proyecto 
-• Video-Games-App-URL : https://pi-videogames-front.vercel.app/ 
-• descripción : Diseñar y desarrollar una App de Videojuegos que traía información de una API y 
- almacenaba la información en una base de datos para después usarla desde la misma
-• incluía: búsquedas, ordenamientos, filtrados y creación de video juegos
-
-• Proyecto 
 • Dogs-App-URL : https://dogs-app-kappa.vercel.app/
 • descripción : Diseñar y desarrollar una App de Razas de perros que traía información de una API y 
  almacenaba la información en una base de datos para después usarla desde la misma
 • incluía: búsquedas, ordenamientos, filtrados y creación de razas
-
-
 
 ☎️ Contacto:
     Linkedin:  https://www.linkedin.com/in/alexander-ca%C3%B1ete-831480238/
