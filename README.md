@@ -51,7 +51,7 @@ Busco un puesto desafiante donde pueda continuar aprendiendo.
 • descripción : Proyecto de Henry Diseñar y desarrollar un E-commerce de de ropa
  que incluye: búsquedas, ordenamientos, filtrados, creación de productos, reviews de productos,
  sección de contacto, login gestión de usuarios, dashboard de administradores y pasarela de pagos
- 
+
 • Proyecto 
 • Dogs-App-URL : https://dogs-app-kappa.vercel.app/
 • descripción : Diseñar y desarrollar una App de Razas de perros que traía información de una API y 
@@ -59,9 +59,9 @@ Busco un puesto desafiante donde pueda continuar aprendiendo.
 • incluía: búsquedas, ordenamientos, filtrados y creación de razas
 
 ☎️ Contacto:
-    Linkedin:  https://www.linkedin.com/in/alexander-ca%C3%B1ete-831480238/
-    Teléfono: +54 9 3625 23-5556
-    Gmail: alexandercanete035@gmail.com
+    • Linkedin:  https://www.linkedin.com/in/alexander-ca%C3%B1ete-831480238/
+    • Teléfono: +54 9 3625 23-5556
+    • Gmail: alexandercanete035@gmail.com
 
 <!--
 
