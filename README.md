@@ -37,6 +37,9 @@ hola soy Alexander Jonatan Cañete tengo 18 años y vivo en Chaco/Argentina👋
 [![Typing SVG](https://camo.githubusercontent.com/ce202e1b8d0172e688f216480e801414ea4900e47750274a289aa3f298c75ed8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446973636f72642d3538363546322e7376673f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://git.io/typing-svg)
 [![Typing SVG](https://camo.githubusercontent.com/a0d4ee5c8ade6c8d92532978856e34de4be418cad95073fef0a00536e91802fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f6c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)](https://git.io/typing-svg)
 
+☎️ contacto:
+    Linkedin:  https://www.linkedin.com/in/alexander-ca%C3%B1ete-831480238/
+
 <!--
 
 hola soy Alexander Jonatan Cañete tengo 18 años y vivo en Chaco/Argentina👋
