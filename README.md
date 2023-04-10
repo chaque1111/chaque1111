@@ -1,4 +1,4 @@
-hola soy Alexander Jonatan Cañete tengo 18 años y vivo en Chaco/Argentina👋
+hola soy Alexander Jonatan Cañete tengo 19 años y vivo en Chaco/Argentina👋
 Soy Full Stack JavaScript Developer, me metí al mundo de la programación hace ya dos años.
 Soy un apasionado de la tecnología, amo programar y siempre me destaqué bastante en ello.
 Me siento cómodo trabajando en Front-end y en Back-end. Como profesional le doy gran importancia al trabajo en equipo 
